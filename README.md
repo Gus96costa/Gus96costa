@@ -7,7 +7,7 @@
 Me chamo Gustavo Soares, tenho 29 anos.     
 Brasileiro, vivendo em Ljubljana.
 Formado em Tecnologia da informação e estudando sobre analise de dados e aplicações com IA.
-
+Apaixonado por tecnologias, arte, cultura e arquiterura... trilhando minha carreira na aréa tecnológica.
 
 
 <p align="left">
