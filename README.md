@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou o Gustavo Soares.
+v## 👋 Olá! Eu sou o Gustavo Soares.
 
 <br />
 
@@ -52,7 +52,8 @@ Formado em Tecnologia da informação e estudando sobre analise de dados e aplic
   <img
     alt="GitHub Stats"
     height="150"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gus96costa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5"
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gus96costa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </div>
 
