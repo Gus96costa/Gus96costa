@@ -53,7 +53,7 @@ Formado em Tecnologia da informação e estudando sobre analise de dados e aplic
  <img
     align = 'left'
     alt = 'GitHub Stats'
-    height = '150'
+    height = '100'
     style = 'padding-right: 10px;'
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gus96costa&theme=tokyonight&layout=compact&custom_tittle=Tecnologias&langs_count=5" 
     />
