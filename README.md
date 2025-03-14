@@ -41,3 +41,19 @@ Me chamo Gustavo Soares, tenho 29 anos.<br>Brasileiro, vivendo em Ljubljana.<br>
 
 
 
+<picture>
+  <source 
+  media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/Gus96costa/us96costa/output/github-snake-dark.svg" />
+  <source 
+  media="(prefers-color-scheme: light)" 
+  srcset="https://raw.githubusercontent.com/Gus96costa/Gus96costa/output/github-snake.svg" />
+  <img 
+  alt="github-snake"
+   src="https://raw.githubusercontent.com/Gus96costa/Gus96costa/output/github-snake.svg" />
+
+   <img 
+  alt ="github-snake"
+  srcset = "https://raw.githubusercontent.com/Gus96costa/Gus96costa/output/github-snake.svg" 
+/>
+</picture>
