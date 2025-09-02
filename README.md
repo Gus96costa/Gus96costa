@@ -36,16 +36,15 @@ Me chamo Gustavo Soares, tenho 29 anos.<br>Brasileiro, vivendo em Ljubljana.<br>
 
 ### 📊 Estatísticas
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Gus96costa&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&locale=pt-br) | ![Streak](https://nirzak-streak-stats.vercel.app/?user=Gus96costa&theme=tokyonight&hide_border=false&locale=pt-br) |<br/> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gus96costa&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&locale=pt-br) |
----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+![Stats](https://github-readme-stats.vercel.app/api?username=Gus96costa&theme=tokyonight&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br)
 
+![Streak](https://streak-stats.demolab.com?user=Gus96costa&theme=tokyonight&hide_border=false&locale=pt_BR)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gus96costa&theme=tokyonight&hide_border=false&layout=compact&include_all_commits=true&count_private=true&locale=pt-br)
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Gus96costa/Gus96costa/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gus96costa/Gus96costa/blob/output/github-snake.svg" />
-    <img
-        alt="github-snake"
-        src="https://raw.githubusercontent.com/Gus96costa/Gus96costa/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gus96costa/Gus96costa/output/github-snake-dark.svg" />
+  <img
+      alt="github-snake"
+      src="https://raw.githubusercontent.com/Gus96costa/Gus96costa/output/github-snake.svg" />
 </picture>
-
