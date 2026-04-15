@@ -46,8 +46,8 @@ Orquestração de interfaces e automação de fluxos assistidos por Inteligênci
 ### 📊 `[TELEMETRY_DATA]`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gus96costa&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&bg_color=000814" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gus96costa&theme=tokyonight&hide_border=true&layout=compact&include_all_commits=true&count_private=true&locale=pt-br&bg_color=000814" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gus96costa&theme=tokyonight&hide_border=true&show_icons=true&locale=pt-br&bg_color=000814" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gus96costa&theme=tokyonight&hide_border=true&layout=compact&locale=pt-br&bg_color=000814" alt="Top Languages" width="48%">
 </div>
 
 <br>
@@ -63,12 +63,4 @@ Orquestração de interfaces e automação de fluxos assistidos por Inteligênci
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gus96costa/Gus96costa/output/github-snake-dark.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/Gus96costa/Gus96costa/output/github-snake.svg" />
   </picture>
-</div>
-
-<br>
-
-<div align="center">
-  <p align="center">
-    <span style="font-family: monospace; font-size: 10px; color: #3b82f6;">// ALL PROTOCOLS EXECUTED //</span>
-  </p>
 </div>
