@@ -1,4 +1,6 @@
-# 💫 Olá, Gustavo aqui!
+<p align="center">
+  <img src="banner.svg" alt="Banner Gustavo Soares" width="100%">
+</p>
 
 Me chamo Gustavo Soares, tenho 29 anos.<br>Brasileiro, vivendo em Ljubljana.<br> Formado em Tecnologia da informação e estou me aperfeiçoando em Análise de dados e aplicações com IA. Apaixonado por tecnologias, arte, cultura e arquiterura... <br>trilhando minha carreira na aréa tecnológica.
 
