@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="banner-aura.jpg" alt="Gustavo Soares - Front-end AI Architect" width="100%">
+<img src="banner.jpg" alt="Gustavo Soares - Front-end AI Architect" width="100%">
 
 <br>
 
