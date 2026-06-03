@@ -40,14 +40,14 @@ Orquestração de interfaces e automação de fluxos assistidos por Inteligênci
 ### 📊 `[TELEMETRY_DATA]`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gus96costa&theme=tokyonight&hide_border=true&show_icons=true&locale=pt-br&bg_color=000814" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gus96costa&theme=tokyonight&hide_border=true&layout=compact&locale=pt-br&bg_color=000814" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gus96costa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gus96costa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Gus96costa&theme=tokyonight&hide_border=true&locale=pt_BR&background=000814" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gus96costa&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak">
 </div>
 
 <br>
