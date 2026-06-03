@@ -4,12 +4,6 @@
 
 <br>
 
-<h1 align="center">
-  GUSTAVO SOARES
-  <br>
-  <span style="font-size: 18px; font-weight: 400; color: #22d3ee;">// FRONT-END AI ARCHITECT & VIBE ENGINEER</span>
-</h1>
-
 <p align="center">
   Engenharia de interfaces <b>ultra-fluidas</b> e integrações lógicas avançadas. Transformo complexidade algorítmica em experiências de utilizador imersivas, utilizando ferramentas de vanguarda e design orientado a dados.
 </p>
