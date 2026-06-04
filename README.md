@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  Engenharia de interfaces <b>ultra-fluidas</b> e integrações lógicas avançadas. Transformo complexidade algorítmica em experiências de utilizador imersivas, utilizando ferramentas de vanguarda e design orientado a dados.
+  Ultra-fluid interface engineering and advanced logical integrations. Transforming algorithmic complexity into immersive user experiences using cutting-edge tools and data-driven design.
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ### ⚙️ `[SYSTEM_CAPABILITIES]`
 
-Orquestração de interfaces e automação de fluxos assistidos por Inteligência Artificial (10x Productivity).
+Interface orchestration and workflow automation assisted by Artificial Intelligence (10x Productivity).
 
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -41,30 +41,31 @@ Orquestração de interfaces e automação de fluxos assistidos por Inteligênci
 
 ### 📊 `[ENGINEERING_METRICS]`
 
-Em vez de métricas de vaidade, o meu foco está na eficiência do código em produção. Abaixo estão os alvos arquiteturais que persigo e garanto em cada projeto:
+Instead of vanity metrics, my focus is strictly on production code efficiency. Below are the architectural targets I pursue and guarantee in every project:
 
-| Métrica Core Web Vital | Meu Target | Status em Produção |
+| Core Web Vital Metric | My Target | Production Status |
 | :--- | :--- | :--- |
-| **LCP** (Largest Contentful Paint) | `< 0.8s` | ✅ Otimizado via Lazy-loading |
-| **FID** (First Input Delay) | `< 50ms` | ✅ Main-thread livre de bloqueios |
-| **CLS** (Cumulative Layout Shift) | `0.0` | ✅ Dimensões estáticas e Aspect-ratio isolado |
-| **Speed Index** (Mobile) | `95+` | ✅ Validado no Google PageSpeed Insights |
+| **LCP** (Largest Contentful Paint) | `< 0.8s` | ✅ Optimized via Lazy-loading |
+| **FID** (First Input Delay) | `< 50ms` | ✅ Non-blocking main-thread |
+| **CLS** (Cumulative Layout Shift) | `0.0` | ✅ Static dimensions & isolated aspect-ratio |
+| **Speed Index** (Mobile) | `95+` | ✅ Validated via Google PageSpeed Insights |
 
 ---
 <br>
 
 ### 🛠️ `[DEVELOPMENT_WORKFLOW]`
 
-Como um **AI Architect**, utilizo a inteligência artificial não apenas para escrever código mais rápido, mas para garantir padrões rigorosos de arquitetura:
+As an **AI Architect**, I leverage artificial intelligence not only to write code faster, but to guarantee rigorous architectural standards:
 
 ```javascript
 const workflow = {
-  ideation: "Prompt Engineering focado em design patterns e Clean Code",
-  engineering: "Cursor AI focado em refatoração molecular e componentização",
-  optimization: "Análise obsessiva via Lighthouse para mitigação de Layout Thrashing",
-  deployment: "CI/CD automatizado via GitHub Actions com deploy na Vercel"
+  ideation: "Prompt Engineering focused on design patterns and Clean Code",
+  engineering: "Cursor AI focused on molecular refactoring and componentization",
+  optimization: "Obsessive analysis via Lighthouse to mitigate Layout Thrashing",
+  deployment: "Automated CI/CD via GitHub Actions with deployment on Vercel"
 };
 ```
+
 <br>
 
 <div align="center">
