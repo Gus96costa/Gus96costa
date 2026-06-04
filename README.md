@@ -51,16 +51,6 @@ Em vez de métricas de vaidade, o meu foco está na eficiência do código em pr
 | **Speed Index** (Mobile) | `95+` | ✅ Validado no Google PageSpeed Insights |
 
 ---
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gus96costa/Gus96costa/output/github-snake-dark.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Gus96costa/Gus96costa/output/github-snake.svg" />
-  </picture>
-</div>
-
 <br>
 
 ### 🛠️ `[DEVELOPMENT_WORKFLOW]`
