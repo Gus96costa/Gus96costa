@@ -47,7 +47,7 @@ Em vez de métricas de vaidade, o meu foco está na eficiência do código em pr
 | :--- | :--- | :--- |
 | **LCP** (Largest Contentful Paint) | `< 0.8s` | ✅ Otimizado via Lazy-loading |
 | **FID** (First Input Delay) | `< 50ms` | ✅ Main-thread livre de bloqueios |
-| **CLS** (Cumulative Layout Shift) | `0.0` | ✅ Dimensões estáticas e Aspect-ratio isolado[cite: 1, 2] |
+| **CLS** (Cumulative Layout Shift) | `0.0` | ✅ Dimensões estáticas e Aspect-ratio isolado |
 | **Speed Index** (Mobile) | `95+` | ✅ Validado no Google PageSpeed Insights |
 
 ---
