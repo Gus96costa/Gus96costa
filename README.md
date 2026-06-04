@@ -54,7 +54,7 @@ Em vez de métricas de vaidade, o meu foco está na eficiência do código em pr
 
 Como um **AI Architect**, utilizo a inteligência artificial não apenas para escrever código mais rápido, mas para garantir padrões rigorosos de arquitetura:
 
-javascript
+```javascript
 const workflow = {
   ideation: "Prompt Engineering focado em design patterns e Clean Code",
   engineering: "Cursor AI focado em refatoração molecular e componentização",
