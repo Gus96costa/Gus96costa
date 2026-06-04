@@ -50,6 +50,17 @@ Em vez de métricas de vaidade, o meu foco está na eficiência do código em pr
 
 ---
 
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gus96costa/Gus96costa/output/github-snake-dark.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Gus96costa/Gus96costa/output/github-snake.svg" />
+  </picture>
+</div>
+
+<br>
+
 ### 🛠️ `[DEVELOPMENT_WORKFLOW]`
 
 Como um **AI Architect**, utilizo a inteligência artificial não apenas para escrever código mais rápido, mas para garantir padrões rigorosos de arquitetura:
@@ -62,11 +73,3 @@ const workflow = {
   deployment: "CI/CD automatizado via GitHub Actions com deploy na Vercel"
 };
 
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gus96costa/Gus96costa/output/github-snake-dark.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Gus96costa/Gus96costa/output/github-snake.svg" />
-  </picture>
-</div>
